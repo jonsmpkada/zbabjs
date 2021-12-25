@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Node.js is awesome!");
+    console.log("cart curt");
 }
