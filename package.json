@@ -1,0 +1,10 @@
+{
+  "name": "zbabjs",
+  "version": "1.0.0",
+  "description": "zart",
+  "main": "index.js",
+  "repository": "https://github.com/jonsmpkada/zbabjs.git",
+  "author": "jonsmpkada <cppshev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
